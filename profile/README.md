@@ -1,4 +1,4 @@
-## Interaction Design and AI Research on COmputational Creativity 👋
+## Interaction Design and AI Research on Generative Apporaches and Computational Creativity 👋
 
 The organisation aims to provide access to tutorials, howtos and support when engaging with computational creativity tools and approaches either from an Arts or Technical perspective. It was initiated by a Vinnova project between Swen Gaudl and Amy Hoover to explore generative ai approaches for responsible engagement with sound generation. The organisation is providing its resources free and aims to be a hub for sharing information.
 
