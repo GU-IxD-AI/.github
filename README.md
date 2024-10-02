@@ -2,3 +2,6 @@
 
 The presented project is aimed at offering an access point for engaging and exploring computational technqiues in the creative domain. We aim to collect and share practices, howtos and software that should support engagement with AI from an academic but also artistic perspective. This incluses using generative ai for the creation of digital artefacts, dealing with ethical and resource considerations, providing a shared understanding of concepts and more.
 The project is for people interested  in exploring what is possible and how we can make new things in a resonsible way.
+
+## A first step:
+As a first step we engage in a Vinnova funded project to explore resonsible generative ai for sound generation, [Sounds of Intelligence](https://ljudavint.fairrats.eu).
